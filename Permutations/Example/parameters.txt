@@ -1,0 +1,4 @@
+numStud = 3500
+preval = 0.06
+numPools = 350
+iterations = 10000
